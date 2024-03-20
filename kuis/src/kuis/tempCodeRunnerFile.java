@@ -1,0 +1,2 @@
+
+        fieldPassword = new JTextField ();
